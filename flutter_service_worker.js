@@ -26,7 +26,7 @@ const RESOURCES = {"icons/favicon-16x16.png": "76fd206328d38d46a7ca83b108e55ab8"
 "main.dart.js": "91d67158729f519a33347e583241bda9",
 "android-chrome-192x192.png": "2d49972fc15d203c70ac5669dec741c7",
 "version.json": "9b818ca9511483c901bed1545384376c",
-"flutter_bootstrap.js": "57192dbc5108798c2d45dfd65ea7ac84",
+"flutter_bootstrap.js": "491ba7b4021bce713da2f0fea024b2b4",
 "favicon.ico": "a66b03d214c307bd269ea16687521ef9",
 "canvaskit/skwasm.js.symbols": "c3c05bd50bdf59da8626bbe446ce65a3",
 "canvaskit/skwasm.wasm": "4051bfc27ba29bf420d17aa0c3a98bce",
